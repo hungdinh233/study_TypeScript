@@ -34,6 +34,11 @@ export default function Headers({}: Props) {
                 Login
               </NavLink>
             </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="demoantd">
+                Demo Antdesign
+              </NavLink>
+            </li>
             <li className="nav-item dropdown">
               <a
                 className="nav-link dropdown-toggle"
